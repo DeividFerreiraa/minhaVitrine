@@ -1,6 +1,6 @@
 # 📱 Minha Vitrine - Marketplace de Serviços
 
-App que conecta clientes com prestadores de serviço (pedreiro, eletricista, pintor, etc).
+App que conecta clientes com comércios e prestadores de serviços (Padarias, mercados, barbearias, etc).
 
 **Stack:** React Native (Expo) + Spring Boot + MySQL + Docker + AWS
 
