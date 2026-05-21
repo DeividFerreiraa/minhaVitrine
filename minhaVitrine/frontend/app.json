@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Minha Vitrine",
+    "slug": "minhavitrine",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FF6B00"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.minhavitrine.app"
+    },
+    "android": {
+      "package": "com.minhavitrine.app"
+    }
+  }
+}

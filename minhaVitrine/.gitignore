@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+*.tar.gz
+.env
+backend/target/
+*.iml
+.idea/
+.DS_Store
+frontend/assets/icon.png
+frontend/assets/favicon.png
+frontend/assets/adaptive-icon.png
+google-play-key.json
+nginx/ssl/*.pem
+backups/
